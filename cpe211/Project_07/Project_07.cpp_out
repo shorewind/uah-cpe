@@ -1,0 +1,2216 @@
+Solution Comparison for Project_07
+------------------------------------
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_07/P7_in1.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 1234
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 1234567
+
+********** Option 1: Calculating PI **********
+For 1234567 iterations, pi is about 3.143544
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 1234
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 1234567
+
+********** Option 1: Calculating PI **********
+For 1234567 iterations, pi is about 3.143544
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P7_in1.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter in the seed(integer > 0) for the random number generator: 1234				Enter in the seed(integer > 0) for the random number generator: 1234
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 1										Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected						Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 1234567									Number of iterations: 1234567
+
+********** Option 1: Calculating PI **********							********** Option 1: Calculating PI **********
+For 1234567 iterations, pi is about 3.143544							For 1234567 iterations, pi is about 3.143544
+**********************************************							**********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 4										Enter your choice: 4
+
+Exit selected.  Exiting the program now...							Exit selected.  Exiting the program now...
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_07/P7_in2.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 1234
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 2234567
+
+********** Option 2: Flipping a Coin **********
+For 2234567 flips of a fair coin:
+Heads percentage: 49.9815
+Tails percentage: 50.0185
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 1234
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 2234567
+
+********** Option 2: Flipping a Coin **********
+For 2234567 flips of a fair coin:
+Heads percentage: 49.9815
+Tails percentage: 50.0185
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P7_in2.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter in the seed(integer > 0) for the random number generator: 1234				Enter in the seed(integer > 0) for the random number generator: 1234
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 2										Enter your choice: 2
+
+Flipping of a fair coin has been selected							Flipping of a fair coin has been selected
+
+How many flips of the coin? 2234567								How many flips of the coin? 2234567
+
+********** Option 2: Flipping a Coin **********							********** Option 2: Flipping a Coin **********
+For 2234567 flips of a fair coin:								For 2234567 flips of a fair coin:
+Heads percentage: 49.9815									Heads percentage: 49.9815
+Tails percentage: 50.0185									Tails percentage: 50.0185
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 4										Enter your choice: 4
+
+Exit selected.  Exiting the program now...							Exit selected.  Exiting the program now...
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_07/P7_in3.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 1234
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 3234567
+
+********** Option 3: Tossing a Die **********
+For 3234567 rolls of a fair die:
+Side 1 percentage: 19.9659
+Side 2 percentage: 20.0302
+Side 3 percentage: 20.0177
+Side 4 percentage: 19.9863
+Side 5 percentage: 19.9999
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 1234
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 3234567
+
+********** Option 3: Tossing a Die **********
+For 3234567 rolls of a fair die:
+Side 1 percentage: 19.9659
+Side 2 percentage: 20.0302
+Side 3 percentage: 20.0177
+Side 4 percentage: 19.9863
+Side 5 percentage: 19.9999
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P7_in3.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter in the seed(integer > 0) for the random number generator: 1234				Enter in the seed(integer > 0) for the random number generator: 1234
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 3										Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected							Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 3234567						How many times do you want to roll the die? 3234567
+
+********** Option 3: Tossing a Die **********							********** Option 3: Tossing a Die **********
+For 3234567 rolls of a fair die:								For 3234567 rolls of a fair die:
+Side 1 percentage: 19.9659									Side 1 percentage: 19.9659
+Side 2 percentage: 20.0302									Side 2 percentage: 20.0302
+Side 3 percentage: 20.0177									Side 3 percentage: 20.0177
+Side 4 percentage: 19.9863									Side 4 percentage: 19.9863
+Side 5 percentage: 19.9999									Side 5 percentage: 19.9999
+*********************************************							*********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 4										Enter your choice: 4
+
+Exit selected.  Exiting the program now...							Exit selected.  Exiting the program now...
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_07/P7_in4.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 12345
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 3234567
+
+********** Option 3: Tossing a Die **********
+For 3234567 rolls of a fair die:
+Side 1 percentage: 20.0094
+Side 2 percentage: 20.0081
+Side 3 percentage: 20.0205
+Side 4 percentage: 19.9823
+Side 5 percentage: 19.9797
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 2234567
+
+********** Option 2: Flipping a Coin **********
+For 2234567 flips of a fair coin:
+Heads percentage: 49.9857
+Tails percentage: 50.0143
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 1234567
+
+********** Option 1: Calculating PI **********
+For 1234567 iterations, pi is about 3.139906
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 12345
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 3234567
+
+********** Option 3: Tossing a Die **********
+For 3234567 rolls of a fair die:
+Side 1 percentage: 20.0094
+Side 2 percentage: 20.0081
+Side 3 percentage: 20.0205
+Side 4 percentage: 19.9823
+Side 5 percentage: 19.9797
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 2234567
+
+********** Option 2: Flipping a Coin **********
+For 2234567 flips of a fair coin:
+Heads percentage: 49.9857
+Tails percentage: 50.0143
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 1234567
+
+********** Option 1: Calculating PI **********
+For 1234567 iterations, pi is about 3.139906
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P7_in4.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter in the seed(integer > 0) for the random number generator: 12345				Enter in the seed(integer > 0) for the random number generator: 12345
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 3										Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected							Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 3234567						How many times do you want to roll the die? 3234567
+
+********** Option 3: Tossing a Die **********							********** Option 3: Tossing a Die **********
+For 3234567 rolls of a fair die:								For 3234567 rolls of a fair die:
+Side 1 percentage: 20.0094									Side 1 percentage: 20.0094
+Side 2 percentage: 20.0081									Side 2 percentage: 20.0081
+Side 3 percentage: 20.0205									Side 3 percentage: 20.0205
+Side 4 percentage: 19.9823									Side 4 percentage: 19.9823
+Side 5 percentage: 19.9797									Side 5 percentage: 19.9797
+*********************************************							*********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 2										Enter your choice: 2
+
+Flipping of a fair coin has been selected							Flipping of a fair coin has been selected
+
+How many flips of the coin? 2234567								How many flips of the coin? 2234567
+
+********** Option 2: Flipping a Coin **********							********** Option 2: Flipping a Coin **********
+For 2234567 flips of a fair coin:								For 2234567 flips of a fair coin:
+Heads percentage: 49.9857									Heads percentage: 49.9857
+Tails percentage: 50.0143									Tails percentage: 50.0143
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 1										Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected						Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 1234567									Number of iterations: 1234567
+
+********** Option 1: Calculating PI **********							********** Option 1: Calculating PI **********
+For 1234567 iterations, pi is about 3.139906							For 1234567 iterations, pi is about 3.139906
+**********************************************							**********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 4										Enter your choice: 4
+
+Exit selected.  Exiting the program now...							Exit selected.  Exiting the program now...
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_07/P7_in5.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 345
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 100
+
+********** Option 1: Calculating PI **********
+For 100 iterations, pi is about 3.080000
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 50
+
+********** Option 2: Flipping a Coin **********
+For 50 flips of a fair coin:
+Heads percentage: 52.0000
+Tails percentage: 48.0000
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 100
+
+********** Option 3: Tossing a Die **********
+For 100 rolls of a fair die:
+Side 1 percentage: 15.0000
+Side 2 percentage: 21.0000
+Side 3 percentage: 24.0000
+Side 4 percentage: 23.0000
+Side 5 percentage: 17.0000
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 345
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 100
+
+********** Option 1: Calculating PI **********
+For 100 iterations, pi is about 3.080000
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 50
+
+********** Option 2: Flipping a Coin **********
+For 50 flips of a fair coin:
+Heads percentage: 52.0000
+Tails percentage: 48.0000
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 100
+
+********** Option 3: Tossing a Die **********
+For 100 rolls of a fair die:
+Side 1 percentage: 15.0000
+Side 2 percentage: 21.0000
+Side 3 percentage: 24.0000
+Side 4 percentage: 23.0000
+Side 5 percentage: 17.0000
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P7_in5.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter in the seed(integer > 0) for the random number generator: 345				Enter in the seed(integer > 0) for the random number generator: 345
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 1										Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected						Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 100									Number of iterations: 100
+
+********** Option 1: Calculating PI **********							********** Option 1: Calculating PI **********
+For 100 iterations, pi is about 3.080000							For 100 iterations, pi is about 3.080000
+**********************************************							**********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 2										Enter your choice: 2
+
+Flipping of a fair coin has been selected							Flipping of a fair coin has been selected
+
+How many flips of the coin? 50									How many flips of the coin? 50
+
+********** Option 2: Flipping a Coin **********							********** Option 2: Flipping a Coin **********
+For 50 flips of a fair coin:									For 50 flips of a fair coin:
+Heads percentage: 52.0000									Heads percentage: 52.0000
+Tails percentage: 48.0000									Tails percentage: 48.0000
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 3										Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected							Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 100							How many times do you want to roll the die? 100
+
+********** Option 3: Tossing a Die **********							********** Option 3: Tossing a Die **********
+For 100 rolls of a fair die:									For 100 rolls of a fair die:
+Side 1 percentage: 15.0000									Side 1 percentage: 15.0000
+Side 2 percentage: 21.0000									Side 2 percentage: 21.0000
+Side 3 percentage: 24.0000									Side 3 percentage: 24.0000
+Side 4 percentage: 23.0000									Side 4 percentage: 23.0000
+Side 5 percentage: 17.0000									Side 5 percentage: 17.0000
+*********************************************							*********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 4										Enter your choice: 4
+
+Exit selected.  Exiting the program now...							Exit selected.  Exiting the program now...
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_07/P7_in6.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 345
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 12345
+
+*************** Invalid Integer ***************
+==> Invalid integer entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 325
+
+********** Option 1: Calculating PI **********
+For 325 iterations, pi is about 3.249231
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: T
+
+************** Invalid Character **************
+==> Invalid character(s) entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 23
+
+********** Option 2: Flipping a Coin **********
+For 23 flips of a fair coin:
+Heads percentage: 47.8261
+Tails percentage: 52.1739
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 0
+
+*************** Invalid Integer ***************
+==> Invalid integer entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: Y
+
+************** Invalid Character **************
+==> Invalid character(s) entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: -9
+
+*************** Invalid Integer ***************
+==> Invalid integer entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: *
+
+************** Invalid Character **************
+==> Invalid character(s) entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: *
+
+************** Invalid Character **************
+==> Invalid character(s) entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 567
+
+*************** Invalid Integer ***************
+==> Invalid integer entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 763
+
+*************** Invalid Integer ***************
+==> Invalid integer entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 567
+
+********** Option 3: Tossing a Die **********
+For 567 rolls of a fair die:
+Side 1 percentage: 19.2240
+Side 2 percentage: 18.5185
+Side 3 percentage: 20.2822
+Side 4 percentage: 21.6931
+Side 5 percentage: 20.2822
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 345
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 12345
+
+*************** Invalid Integer ***************
+==> Invalid integer entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 325
+
+********** Option 1: Calculating PI **********
+For 325 iterations, pi is about 3.249231
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: T
+
+************** Invalid Character **************
+==> Invalid character(s) entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 23
+
+********** Option 2: Flipping a Coin **********
+For 23 flips of a fair coin:
+Heads percentage: 47.8261
+Tails percentage: 52.1739
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 0
+
+*************** Invalid Integer ***************
+==> Invalid integer entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: Y
+
+************** Invalid Character **************
+==> Invalid character(s) entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: -9
+
+*************** Invalid Integer ***************
+==> Invalid integer entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: *
+
+************** Invalid Character **************
+==> Invalid character(s) entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: *
+
+************** Invalid Character **************
+==> Invalid character(s) entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 567
+
+*************** Invalid Integer ***************
+==> Invalid integer entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 763
+
+*************** Invalid Integer ***************
+==> Invalid integer entered.
+==> Please try again...
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 567
+
+********** Option 3: Tossing a Die **********
+For 567 rolls of a fair die:
+Side 1 percentage: 19.2240
+Side 2 percentage: 18.5185
+Side 3 percentage: 20.2822
+Side 4 percentage: 21.6931
+Side 5 percentage: 20.2822
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P7_in6.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter in the seed(integer > 0) for the random number generator: 345				Enter in the seed(integer > 0) for the random number generator: 345
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 12345									Enter your choice: 12345
+
+*************** Invalid Integer ***************							*************** Invalid Integer ***************
+==> Invalid integer entered.									==> Invalid integer entered.
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 1										Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected						Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 325									Number of iterations: 325
+
+********** Option 1: Calculating PI **********							********** Option 1: Calculating PI **********
+For 325 iterations, pi is about 3.249231							For 325 iterations, pi is about 3.249231
+**********************************************							**********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: T										Enter your choice: T
+
+************** Invalid Character **************							************** Invalid Character **************
+==> Invalid character(s) entered.								==> Invalid character(s) entered.
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 2										Enter your choice: 2
+
+Flipping of a fair coin has been selected							Flipping of a fair coin has been selected
+
+How many flips of the coin? 23									How many flips of the coin? 23
+
+********** Option 2: Flipping a Coin **********							********** Option 2: Flipping a Coin **********
+For 23 flips of a fair coin:									For 23 flips of a fair coin:
+Heads percentage: 47.8261									Heads percentage: 47.8261
+Tails percentage: 52.1739									Tails percentage: 52.1739
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 0										Enter your choice: 0
+
+*************** Invalid Integer ***************							*************** Invalid Integer ***************
+==> Invalid integer entered.									==> Invalid integer entered.
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: Y										Enter your choice: Y
+
+************** Invalid Character **************							************** Invalid Character **************
+==> Invalid character(s) entered.								==> Invalid character(s) entered.
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: -9										Enter your choice: -9
+
+*************** Invalid Integer ***************							*************** Invalid Integer ***************
+==> Invalid integer entered.									==> Invalid integer entered.
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: *										Enter your choice: *
+
+************** Invalid Character **************							************** Invalid Character **************
+==> Invalid character(s) entered.								==> Invalid character(s) entered.
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: *										Enter your choice: *
+
+************** Invalid Character **************							************** Invalid Character **************
+==> Invalid character(s) entered.								==> Invalid character(s) entered.
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 567										Enter your choice: 567
+
+*************** Invalid Integer ***************							*************** Invalid Integer ***************
+==> Invalid integer entered.									==> Invalid integer entered.
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 763										Enter your choice: 763
+
+*************** Invalid Integer ***************							*************** Invalid Integer ***************
+==> Invalid integer entered.									==> Invalid integer entered.
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 3										Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected							Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 567							How many times do you want to roll the die? 567
+
+********** Option 3: Tossing a Die **********							********** Option 3: Tossing a Die **********
+For 567 rolls of a fair die:									For 567 rolls of a fair die:
+Side 1 percentage: 19.2240									Side 1 percentage: 19.2240
+Side 2 percentage: 18.5185									Side 2 percentage: 18.5185
+Side 3 percentage: 20.2822									Side 3 percentage: 20.2822
+Side 4 percentage: 21.6931									Side 4 percentage: 21.6931
+Side 5 percentage: 20.2822									Side 5 percentage: 20.2822
+*********************************************							*********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 4										Enter your choice: 4
+
+Exit selected.  Exiting the program now...							Exit selected.  Exiting the program now...
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_07/P7_in7.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 345
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 100
+
+********** Option 1: Calculating PI **********
+For 100 iterations, pi is about 3.080000
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 50
+
+********** Option 2: Flipping a Coin **********
+For 50 flips of a fair coin:
+Heads percentage: 52.0000
+Tails percentage: 48.0000
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 100
+
+********** Option 3: Tossing a Die **********
+For 100 rolls of a fair die:
+Side 1 percentage: 15.0000
+Side 2 percentage: 21.0000
+Side 3 percentage: 24.0000
+Side 4 percentage: 23.0000
+Side 5 percentage: 17.0000
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 345
+
+********** Option 2: Flipping a Coin **********
+For 345 flips of a fair coin:
+Heads percentage: 47.8261
+Tails percentage: 52.1739
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 54
+
+********** Option 1: Calculating PI **********
+For 54 iterations, pi is about 3.111111
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 25
+
+********** Option 3: Tossing a Die **********
+For 25 rolls of a fair die:
+Side 1 percentage: 24.0000
+Side 2 percentage: 12.0000
+Side 3 percentage: 36.0000
+Side 4 percentage: 8.0000
+Side 5 percentage: 20.0000
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter in the seed(integer > 0) for the random number generator: 345
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 100
+
+********** Option 1: Calculating PI **********
+For 100 iterations, pi is about 3.080000
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 50
+
+********** Option 2: Flipping a Coin **********
+For 50 flips of a fair coin:
+Heads percentage: 52.0000
+Tails percentage: 48.0000
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 100
+
+********** Option 3: Tossing a Die **********
+For 100 rolls of a fair die:
+Side 1 percentage: 15.0000
+Side 2 percentage: 21.0000
+Side 3 percentage: 24.0000
+Side 4 percentage: 23.0000
+Side 5 percentage: 17.0000
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 2
+
+Flipping of a fair coin has been selected
+
+How many flips of the coin? 345
+
+********** Option 2: Flipping a Coin **********
+For 345 flips of a fair coin:
+Heads percentage: 47.8261
+Tails percentage: 52.1739
+***********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 54
+
+********** Option 1: Calculating PI **********
+For 54 iterations, pi is about 3.111111
+**********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 25
+
+********** Option 3: Tossing a Die **********
+For 25 rolls of a fair die:
+Side 1 percentage: 24.0000
+Side 2 percentage: 12.0000
+Side 3 percentage: 36.0000
+Side 4 percentage: 8.0000
+Side 5 percentage: 20.0000
+*********************************************
+
+************************
+***** Menu Options *****
+************************
+1) Approximate PI
+2) Flip a fair coin
+3) Toss a fair 5-sided die
+4) Exit
+************************
+
+Enter your choice: 4
+
+Exit selected.  Exiting the program now...
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P7_in7.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter in the seed(integer > 0) for the random number generator: 345				Enter in the seed(integer > 0) for the random number generator: 345
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 1										Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected						Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 100									Number of iterations: 100
+
+********** Option 1: Calculating PI **********							********** Option 1: Calculating PI **********
+For 100 iterations, pi is about 3.080000							For 100 iterations, pi is about 3.080000
+**********************************************							**********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 2										Enter your choice: 2
+
+Flipping of a fair coin has been selected							Flipping of a fair coin has been selected
+
+How many flips of the coin? 50									How many flips of the coin? 50
+
+********** Option 2: Flipping a Coin **********							********** Option 2: Flipping a Coin **********
+For 50 flips of a fair coin:									For 50 flips of a fair coin:
+Heads percentage: 52.0000									Heads percentage: 52.0000
+Tails percentage: 48.0000									Tails percentage: 48.0000
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 3										Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected							Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 100							How many times do you want to roll the die? 100
+
+********** Option 3: Tossing a Die **********							********** Option 3: Tossing a Die **********
+For 100 rolls of a fair die:									For 100 rolls of a fair die:
+Side 1 percentage: 15.0000									Side 1 percentage: 15.0000
+Side 2 percentage: 21.0000									Side 2 percentage: 21.0000
+Side 3 percentage: 24.0000									Side 3 percentage: 24.0000
+Side 4 percentage: 23.0000									Side 4 percentage: 23.0000
+Side 5 percentage: 17.0000									Side 5 percentage: 17.0000
+*********************************************							*********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 2										Enter your choice: 2
+
+Flipping of a fair coin has been selected							Flipping of a fair coin has been selected
+
+How many flips of the coin? 345									How many flips of the coin? 345
+
+********** Option 2: Flipping a Coin **********							********** Option 2: Flipping a Coin **********
+For 345 flips of a fair coin:									For 345 flips of a fair coin:
+Heads percentage: 47.8261									Heads percentage: 47.8261
+Tails percentage: 52.1739									Tails percentage: 52.1739
+***********************************************							***********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 1										Enter your choice: 1
+
+Monte Carlo Method for finding PI has been selected						Monte Carlo Method for finding PI has been selected
+
+Number of iterations: 54									Number of iterations: 54
+
+********** Option 1: Calculating PI **********							********** Option 1: Calculating PI **********
+For 54 iterations, pi is about 3.111111								For 54 iterations, pi is about 3.111111
+**********************************************							**********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 3										Enter your choice: 3
+
+Tossing of a fair 5-sided die has been selected							Tossing of a fair 5-sided die has been selected
+
+How many times do you want to roll the die? 25							How many times do you want to roll the die? 25
+
+********** Option 3: Tossing a Die **********							********** Option 3: Tossing a Die **********
+For 25 rolls of a fair die:									For 25 rolls of a fair die:
+Side 1 percentage: 24.0000									Side 1 percentage: 24.0000
+Side 2 percentage: 12.0000									Side 2 percentage: 12.0000
+Side 3 percentage: 36.0000									Side 3 percentage: 36.0000
+Side 4 percentage: 8.0000									Side 4 percentage: 8.0000
+Side 5 percentage: 20.0000									Side 5 percentage: 20.0000
+*********************************************							*********************************************
+
+************************									************************
+***** Menu Options *****									***** Menu Options *****
+************************									************************
+1) Approximate PI										1) Approximate PI
+2) Flip a fair coin										2) Flip a fair coin
+3) Toss a fair 5-sided die									3) Toss a fair 5-sided die
+4) Exit												4) Exit
+************************									************************
+
+Enter your choice: 4										Enter your choice: 4
+
+Exit selected.  Exiting the program now...							Exit selected.  Exiting the program now...
+

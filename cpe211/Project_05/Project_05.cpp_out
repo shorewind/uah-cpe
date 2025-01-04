@@ -1,0 +1,1282 @@
+Solution Comparison for Project_05
+------------------------------------
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in1.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in1.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 3.00
+Side B = 4.00
+Side C = 5.00
+Guess  = equilateral
+************************************************************
+Results From Data Read:
+Type.........scalene
+Area.........6.00
+Perimeter....12.00
+
+Sorry! Triangle specified is incorrect
+************************************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in1.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 3.00
+Side B = 4.00
+Side C = 5.00
+Guess  = equilateral
+************************************************************
+Results From Data Read:
+Type.........scalene
+Area.........6.00
+Perimeter....12.00
+
+Sorry! Triangle specified is incorrect
+************************************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in1.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in1.txt					Opening input file: /home/work/cpe211data/Project_05/P5_in1.txt
+
+Reading Values From Input File...								Reading Values From Input File...
+
+Summary of Data Read...										Summary of Data Read...
+Side A = 3.00											Side A = 3.00
+Side B = 4.00											Side B = 4.00
+Side C = 5.00											Side C = 5.00
+Guess  = equilateral										Guess  = equilateral
+************************************************************					************************************************************
+Results From Data Read:										Results From Data Read:
+Type.........scalene										Type.........scalene
+Area.........6.00										Area.........6.00
+Perimeter....12.00										Perimeter....12.00
+
+Sorry! Triangle specified is incorrect								Sorry! Triangle specified is incorrect
+************************************************************					************************************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in2.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in2.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 10.00
+Side B = 6.00
+Side C = 8.00
+Guess  = scalene
+************************************************************
+Results From Data Read:
+Type.........scalene
+Area.........24.00
+Perimeter....24.00
+
+Congratulations!  Triangle specified is correct
+************************************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in2.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 10.00
+Side B = 6.00
+Side C = 8.00
+Guess  = scalene
+************************************************************
+Results From Data Read:
+Type.........scalene
+Area.........24.00
+Perimeter....24.00
+
+Congratulations!  Triangle specified is correct
+************************************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in2.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in2.txt					Opening input file: /home/work/cpe211data/Project_05/P5_in2.txt
+
+Reading Values From Input File...								Reading Values From Input File...
+
+Summary of Data Read...										Summary of Data Read...
+Side A = 10.00											Side A = 10.00
+Side B = 6.00											Side B = 6.00
+Side C = 8.00											Side C = 8.00
+Guess  = scalene										Guess  = scalene
+************************************************************					************************************************************
+Results From Data Read:										Results From Data Read:
+Type.........scalene										Type.........scalene
+Area.........24.00										Area.........24.00
+Perimeter....24.00										Perimeter....24.00
+
+Congratulations!  Triangle specified is correct							Congratulations!  Triangle specified is correct
+************************************************************					************************************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in3.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in3.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 8.00
+Side B = 8.00
+Side C = 8.00
+Guess  = equilateral
+************************************************************
+Results From Data Read:
+Type.........equilateral
+Area.........27.71
+Perimeter....24.00
+
+Congratulations!  Triangle specified is correct
+************************************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in3.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 8.00
+Side B = 8.00
+Side C = 8.00
+Guess  = equilateral
+************************************************************
+Results From Data Read:
+Type.........equilateral
+Area.........27.71
+Perimeter....24.00
+
+Congratulations!  Triangle specified is correct
+************************************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in3.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in3.txt					Opening input file: /home/work/cpe211data/Project_05/P5_in3.txt
+
+Reading Values From Input File...								Reading Values From Input File...
+
+Summary of Data Read...										Summary of Data Read...
+Side A = 8.00											Side A = 8.00
+Side B = 8.00											Side B = 8.00
+Side C = 8.00											Side C = 8.00
+Guess  = equilateral										Guess  = equilateral
+************************************************************					************************************************************
+Results From Data Read:										Results From Data Read:
+Type.........equilateral									Type.........equilateral
+Area.........27.71										Area.........27.71
+Perimeter....24.00										Perimeter....24.00
+
+Congratulations!  Triangle specified is correct							Congratulations!  Triangle specified is correct
+************************************************************					************************************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in4.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in4.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 6.00
+Side B = 8.00
+Side C = 8.00
+Guess  = not-triangle
+************************************************************
+Results From Data Read:
+Type.........isosceles
+Area.........22.25
+Perimeter....22.00
+
+Sorry! Triangle specified is incorrect
+************************************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in4.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 6.00
+Side B = 8.00
+Side C = 8.00
+Guess  = not-triangle
+************************************************************
+Results From Data Read:
+Type.........isosceles
+Area.........22.25
+Perimeter....22.00
+
+Sorry! Triangle specified is incorrect
+************************************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in4.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in4.txt					Opening input file: /home/work/cpe211data/Project_05/P5_in4.txt
+
+Reading Values From Input File...								Reading Values From Input File...
+
+Summary of Data Read...										Summary of Data Read...
+Side A = 6.00											Side A = 6.00
+Side B = 8.00											Side B = 8.00
+Side C = 8.00											Side C = 8.00
+Guess  = not-triangle										Guess  = not-triangle
+************************************************************					************************************************************
+Results From Data Read:										Results From Data Read:
+Type.........isosceles										Type.........isosceles
+Area.........22.25										Area.........22.25
+Perimeter....22.00										Perimeter....22.00
+
+Sorry! Triangle specified is incorrect								Sorry! Triangle specified is incorrect
+************************************************************					************************************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in5.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in5.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 6.00
+Side B = 8.00
+Side C = 8.00
+Guess  = isosceles
+************************************************************
+Results From Data Read:
+Type.........isosceles
+Area.........22.25
+Perimeter....22.00
+
+Congratulations!  Triangle specified is correct
+************************************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in5.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 6.00
+Side B = 8.00
+Side C = 8.00
+Guess  = isosceles
+************************************************************
+Results From Data Read:
+Type.........isosceles
+Area.........22.25
+Perimeter....22.00
+
+Congratulations!  Triangle specified is correct
+************************************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in5.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in5.txt					Opening input file: /home/work/cpe211data/Project_05/P5_in5.txt
+
+Reading Values From Input File...								Reading Values From Input File...
+
+Summary of Data Read...										Summary of Data Read...
+Side A = 6.00											Side A = 6.00
+Side B = 8.00											Side B = 8.00
+Side C = 8.00											Side C = 8.00
+Guess  = isosceles										Guess  = isosceles
+************************************************************					************************************************************
+Results From Data Read:										Results From Data Read:
+Type.........isosceles										Type.........isosceles
+Area.........22.25										Area.........22.25
+Perimeter....22.00										Perimeter....22.00
+
+Congratulations!  Triangle specified is correct							Congratulations!  Triangle specified is correct
+************************************************************					************************************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in6.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in6.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 8.00
+Side B = 8.00
+Side C = 6.00
+Guess  = equilateral
+************************************************************
+Results From Data Read:
+Type.........isosceles
+Area.........22.25
+Perimeter....22.00
+
+Sorry! Triangle specified is incorrect
+************************************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in6.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 8.00
+Side B = 8.00
+Side C = 6.00
+Guess  = equilateral
+************************************************************
+Results From Data Read:
+Type.........isosceles
+Area.........22.25
+Perimeter....22.00
+
+Sorry! Triangle specified is incorrect
+************************************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in6.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in6.txt					Opening input file: /home/work/cpe211data/Project_05/P5_in6.txt
+
+Reading Values From Input File...								Reading Values From Input File...
+
+Summary of Data Read...										Summary of Data Read...
+Side A = 8.00											Side A = 8.00
+Side B = 8.00											Side B = 8.00
+Side C = 6.00											Side C = 6.00
+Guess  = equilateral										Guess  = equilateral
+************************************************************					************************************************************
+Results From Data Read:										Results From Data Read:
+Type.........isosceles										Type.........isosceles
+Area.........22.25										Area.........22.25
+Perimeter....22.00										Perimeter....22.00
+
+Sorry! Triangle specified is incorrect								Sorry! Triangle specified is incorrect
+************************************************************					************************************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in7.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in7.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 1.00
+Side B = 99.00
+Side C = 1000.00
+Guess  = not-triangle
+************************************************************
+Results From Data Read:
+Type.........not-triangle
+
+Congratulations!  Triangle specified is correct
+************************************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in7.txt
+
+Reading Values From Input File...
+
+Summary of Data Read...
+Side A = 1.00
+Side B = 99.00
+Side C = 1000.00
+Guess  = not-triangle
+************************************************************
+Results From Data Read:
+Type.........not-triangle
+
+Congratulations!  Triangle specified is correct
+************************************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in7.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in7.txt					Opening input file: /home/work/cpe211data/Project_05/P5_in7.txt
+
+Reading Values From Input File...								Reading Values From Input File...
+
+Summary of Data Read...										Summary of Data Read...
+Side A = 1.00											Side A = 1.00
+Side B = 99.00											Side B = 99.00
+Side C = 1000.00										Side C = 1000.00
+Guess  = not-triangle										Guess  = not-triangle
+************************************************************					************************************************************
+Results From Data Read:										Results From Data Read:
+Type.........not-triangle									Type.........not-triangle
+
+Congratulations!  Triangle specified is correct							Congratulations!  Triangle specified is correct
+************************************************************					************************************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in8.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in8.txt
+
+Reading Values From Input File...
+
+*************** File Read Error ***************
+==> Error reading data from input file.
+==> Terminating program now...
+***********************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in8.txt
+
+Reading Values From Input File...
+
+*************** File Read Error ***************
+==> Error reading data from input file.
+==> Terminating program now...
+***********************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in8.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in8.txt					Opening input file: /home/work/cpe211data/Project_05/P5_in8.txt
+
+Reading Values From Input File...								Reading Values From Input File...
+
+*************** File Read Error ***************							*************** File Read Error ***************
+==> Error reading data from input file.								==> Error reading data from input file.
+==> Terminating program now...									==> Terminating program now...
+***********************************************							***********************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in9.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in9.txt
+
+Reading Values From Input File...
+
+*************** File Data Error ***************
+==> Error: One or more side lengths are negative.
+==> Terminating program now...
+***********************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in9.txt
+
+Reading Values From Input File...
+
+*************** File Data Error ***************
+==> Error: One or more side lengths are negative.
+==> Terminating program now...
+***********************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in9.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in9.txt					Opening input file: /home/work/cpe211data/Project_05/P5_in9.txt
+
+Reading Values From Input File...								Reading Values From Input File...
+
+*************** File Data Error ***************							*************** File Data Error ***************
+==> Error: One or more side lengths are negative.						==> Error: One or more side lengths are negative.
+==> Terminating program now...									==> Terminating program now...
+***********************************************							***********************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in10.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in10.txt
+
+Reading Values From Input File...
+
+*************** File Data Error ***************
+==> Error: One or more side lengths are negative.
+==> Terminating program now...
+***********************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in10.txt
+
+Reading Values From Input File...
+
+*************** File Data Error ***************
+==> Error: One or more side lengths are negative.
+==> Terminating program now...
+***********************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in10.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in10.txt				Opening input file: /home/work/cpe211data/Project_05/P5_in10.txt
+
+Reading Values From Input File...								Reading Values From Input File...
+
+*************** File Data Error ***************							*************** File Data Error ***************
+==> Error: One or more side lengths are negative.						==> Error: One or more side lengths are negative.
+==> Terminating program now...									==> Terminating program now...
+***********************************************							***********************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in11.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in11.txt
+
+Reading Values From Input File...
+
+************* Input File Is Empty *************
+==> No Information in the input file.
+==> Terminating program now...
+***********************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in11.txt
+
+Reading Values From Input File...
+
+************* Input File Is Empty *************
+==> No Information in the input file.
+==> Terminating program now...
+***********************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in11.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: /home/work/cpe211data/Project_05/P5_in11.txt				Opening input file: /home/work/cpe211data/Project_05/P5_in11.txt
+
+Reading Values From Input File...								Reading Values From Input File...
+
+************* Input File Is Empty *************							************* Input File Is Empty *************
+==> No Information in the input file.								==> No Information in the input file.
+==> Terminating program now...									==> Terminating program now...
+***********************************************							***********************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing Invalid input file
+                             ###  Testing Invalid Input File: Not/A/File.TXT
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: Not/A/File.TXT
+
+*************** File Open Error ***************
+==> Input file failed to open properly!!
+==> Attempted to open file: Not/A/File.TXT
+==> Terminating program!!!
+***********************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+==================== Start of Output ============================================
+
+************************************************************
+********************  Triangle Checker  ********************
+************************************************************
+
+Opening input file: Not/A/File.TXT
+
+*************** File Open Error ***************
+==> Input file failed to open properly!!
+==> Attempted to open file: Not/A/File.TXT
+==> Terminating program!!!
+***********************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in12.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+********************  Triangle Checker  ********************					********************  Triangle Checker  ********************
+************************************************************					************************************************************
+
+Opening input file: Not/A/File.TXT								Opening input file: Not/A/File.TXT
+
+*************** File Open Error ***************							*************** File Open Error ***************
+==> Input file failed to open properly!!							==> Input file failed to open properly!!
+==> Attempted to open file: Not/A/File.TXT							==> Attempted to open file: Not/A/File.TXT
+==> Terminating program!!!									==> Terminating program!!!
+***********************************************							***********************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_05/P5_in13.txt
+                             ###  Testing Invalid Number of Command Line Arguments
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+==================== Start of Output ============================================
+Testin No command Line Arguments:
+
+********* Command Line Argument Error *********
+==> Incorrect number of Command Line Arguments!
+==> Command for running the program is:
+==> ./Project_05 inputFileName
+***********************************************
+
+Testin More than 1 command Line Argument:
+
+********* Command Line Argument Error *********
+==> Incorrect number of Command Line Arguments!
+==> Command for running the program is:
+==> ./Project_05 inputFileName
+***********************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+==================== Start of Output ============================================
+Testin No command Line Arguments:
+
+********* Command Line Argument Error *********
+==> Incorrect number of Command Line Arguments!
+==> Command for running the program is:
+==> ./Project_05 inputFileName
+***********************************************
+
+Testin More than 1 command Line Argument:
+
+********* Command Line Argument Error *********
+==> Incorrect number of Command Line Arguments!
+==> Command for running the program is:
+==> ./Project_05 inputFileName
+***********************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P5_in13.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+Testin No command Line Arguments:								Testin No command Line Arguments:
+
+********* Command Line Argument Error *********							********* Command Line Argument Error *********
+==> Incorrect number of Command Line Arguments!							==> Incorrect number of Command Line Arguments!
+==> Command for running the program is:								==> Command for running the program is:
+==> ./Project_05 inputFileName									==> ./Project_05 inputFileName
+***********************************************							***********************************************
+
+Testin More than 1 command Line Argument:							Testin More than 1 command Line Argument:
+
+********* Command Line Argument Error *********							********* Command Line Argument Error *********
+==> Incorrect number of Command Line Arguments!							==> Incorrect number of Command Line Arguments!
+==> Command for running the program is:								==> Command for running the program is:
+==> ./Project_05 inputFileName									==> ./Project_05 inputFileName
+***********************************************							***********************************************
+

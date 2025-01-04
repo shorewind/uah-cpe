@@ -1,0 +1,437 @@
+Solution Comparison for Project_03
+------------------------------------
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_03/P3_in1.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+******************************
+***** Projectile Motion
+******************************
+
+Enter in the initial velocity(in meters/sec): 100
+
+Enter in the starting angle(in degrees): 45
+
+Time to max height:      7.210 seconds
+Time to max distance:    14.421 seconds
+Maximum height:          254.929 meters
+Maximum distance:        1019.716 meters
+Maximum range:           1019.716 meters
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+******************************
+***** Projectile Motion
+******************************
+
+Enter in the initial velocity(in meters/sec): 100
+
+Enter in the starting angle(in degrees): 45
+
+Time to max height:      7.210 seconds
+Time to max distance:    14.421 seconds
+Maximum height:          254.929 meters
+Maximum distance:        1019.716 meters
+Maximum range:           1019.716 meters
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P3_in1.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+******************************									******************************
+***** Projectile Motion										***** Projectile Motion
+******************************									******************************
+
+Enter in the initial velocity(in meters/sec): 100						Enter in the initial velocity(in meters/sec): 100
+
+Enter in the starting angle(in degrees): 45							Enter in the starting angle(in degrees): 45
+
+Time to max height:      7.210 seconds								Time to max height:      7.210 seconds
+Time to max distance:    14.421 seconds								Time to max distance:    14.421 seconds
+Maximum height:          254.929 meters								Maximum height:          254.929 meters
+Maximum distance:        1019.716 meters							Maximum distance:        1019.716 meters
+Maximum range:           1019.716 meters							Maximum range:           1019.716 meters
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_03/P3_in2.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+******************************
+***** Projectile Motion
+******************************
+
+Enter in the initial velocity(in meters/sec): 100
+
+Enter in the starting angle(in degrees): 60
+
+Time to max height:      8.831 seconds
+Time to max distance:    17.662 seconds
+Maximum height:          382.394 meters
+Maximum distance:        883.100 meters
+Maximum range:           1019.716 meters
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+******************************
+***** Projectile Motion
+******************************
+
+Enter in the initial velocity(in meters/sec): 100
+
+Enter in the starting angle(in degrees): 60
+
+Time to max height:      8.831 seconds
+Time to max distance:    17.662 seconds
+Maximum height:          382.394 meters
+Maximum distance:        883.100 meters
+Maximum range:           1019.716 meters
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P3_in2.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+******************************									******************************
+***** Projectile Motion										***** Projectile Motion
+******************************									******************************
+
+Enter in the initial velocity(in meters/sec): 100						Enter in the initial velocity(in meters/sec): 100
+
+Enter in the starting angle(in degrees): 60							Enter in the starting angle(in degrees): 60
+
+Time to max height:      8.831 seconds								Time to max height:      8.831 seconds
+Time to max distance:    17.662 seconds								Time to max distance:    17.662 seconds
+Maximum height:          382.394 meters								Maximum height:          382.394 meters
+Maximum distance:        883.100 meters								Maximum distance:        883.100 meters
+Maximum range:           1019.716 meters							Maximum range:           1019.716 meters
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_03/P3_in3.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+******************************
+***** Projectile Motion
+******************************
+
+Enter in the initial velocity(in meters/sec): 100.83
+
+Enter in the starting angle(in degrees): 30.69
+
+Time to max height:      5.248 seconds
+Time to max distance:    10.496 seconds
+Maximum height:          135.032 meters
+Maximum distance:        910.044 meters
+Maximum range:           1036.714 meters
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+******************************
+***** Projectile Motion
+******************************
+
+Enter in the initial velocity(in meters/sec): 100.83
+
+Enter in the starting angle(in degrees): 30.69
+
+Time to max height:      5.248 seconds
+Time to max distance:    10.496 seconds
+Maximum height:          135.032 meters
+Maximum distance:        910.044 meters
+Maximum range:           1036.714 meters
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P3_in3.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+******************************									******************************
+***** Projectile Motion										***** Projectile Motion
+******************************									******************************
+
+Enter in the initial velocity(in meters/sec): 100.83						Enter in the initial velocity(in meters/sec): 100.83
+
+Enter in the starting angle(in degrees): 30.69							Enter in the starting angle(in degrees): 30.69
+
+Time to max height:      5.248 seconds								Time to max height:      5.248 seconds
+Time to max distance:    10.496 seconds								Time to max distance:    10.496 seconds
+Maximum height:          135.032 meters								Maximum height:          135.032 meters
+Maximum distance:        910.044 meters								Maximum distance:        910.044 meters
+Maximum range:           1036.714 meters							Maximum range:           1036.714 meters
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_03/P3_in4.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+******************************
+***** Projectile Motion
+******************************
+
+Enter in the initial velocity(in meters/sec): 55.55
+
+Enter in the starting angle(in degrees): 90
+
+Time to max height:      5.665 seconds
+Time to max distance:    11.329 seconds
+Maximum height:          157.332 meters
+Maximum distance:        0.000 meters
+Maximum range:           314.664 meters
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+******************************
+***** Projectile Motion
+******************************
+
+Enter in the initial velocity(in meters/sec): 55.55
+
+Enter in the starting angle(in degrees): 90
+
+Time to max height:      5.665 seconds
+Time to max distance:    11.329 seconds
+Maximum height:          157.332 meters
+Maximum distance:        0.000 meters
+Maximum range:           314.664 meters
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P3_in4.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+******************************									******************************
+***** Projectile Motion										***** Projectile Motion
+******************************									******************************
+
+Enter in the initial velocity(in meters/sec): 55.55						Enter in the initial velocity(in meters/sec): 55.55
+
+Enter in the starting angle(in degrees): 90							Enter in the starting angle(in degrees): 90
+
+Time to max height:      5.665 seconds								Time to max height:      5.665 seconds
+Time to max distance:    11.329 seconds								Time to max distance:    11.329 seconds
+Maximum height:          157.332 meters								Maximum height:          157.332 meters
+Maximum distance:        0.000 meters								Maximum distance:        0.000 meters
+Maximum range:           314.664 meters								Maximum range:           314.664 meters
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_03/P3_in5.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+******************************
+***** Projectile Motion
+******************************
+
+Enter in the initial velocity(in meters/sec): 75.5
+
+Enter in the starting angle(in degrees): 0
+
+Time to max height:      0.000 seconds
+Time to max distance:    0.000 seconds
+Maximum height:          0.000 meters
+Maximum distance:        0.000 meters
+Maximum range:           581.264 meters
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+******************************
+***** Projectile Motion
+******************************
+
+Enter in the initial velocity(in meters/sec): 75.5
+
+Enter in the starting angle(in degrees): 0
+
+Time to max height:      0.000 seconds
+Time to max distance:    0.000 seconds
+Maximum height:          0.000 meters
+Maximum distance:        0.000 meters
+Maximum range:           581.264 meters
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P3_in5.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+******************************									******************************
+***** Projectile Motion										***** Projectile Motion
+******************************									******************************
+
+Enter in the initial velocity(in meters/sec): 75.5						Enter in the initial velocity(in meters/sec): 75.5
+
+Enter in the starting angle(in degrees): 0							Enter in the starting angle(in degrees): 0
+
+Time to max height:      0.000 seconds								Time to max height:      0.000 seconds
+Time to max distance:    0.000 seconds								Time to max distance:    0.000 seconds
+Maximum height:          0.000 meters								Maximum height:          0.000 meters
+Maximum distance:        0.000 meters								Maximum distance:        0.000 meters
+Maximum range:           581.264 meters								Maximum range:           581.264 meters
+

@@ -1,0 +1,518 @@
+Solution Comparison for Project_08
+------------------------------------
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_08/P8_in1.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in1.txt
+
+Enter the name of the output file: Project_08_output1.txt
+
+Processing information. Please Wait....
+
+Program has finished execution.
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in1.txt
+
+Enter the name of the output file: Project_08_output1.txt
+
+Processing information. Please Wait....
+
+Program has finished execution.
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P8_in1.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in1.txt			Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in1.txt
+
+Enter the name of the output file: Project_08_output1.txt					Enter the name of the output file: Project_08_output1.txt
+
+Processing information. Please Wait....								Processing information. Please Wait....
+
+Program has finished execution.									Program has finished execution.
+
+
+============================================							============================================
+Contents of output file are below this line							Contents of output file are below this line
+============================================							============================================
+Entry  Last Name           First Name     City                Phone Number			Entry  Last Name           First Name     City                Phone Number
+-----  ---------           ----------     ----                ------------			-----  ---------           ----------     ----                ------------
+1      Bowman              Ron            Huntsville          123.345.5678			1      Bowman              Ron            Huntsville          123.345.5678
+2      Washington          George         Washington          456.345.0000			2      Washington          George         Washington          456.345.0000
+3      Lincoln             Abe            Springfield         654.555.5555			3      Lincoln             Abe            Springfield         654.555.5555
+4      Clinton             William        Little Rock         888.878.9876			4      Clinton             William        Little Rock         888.878.9876
+-----  ---------           ----------     ----                ------------			-----  ---------           ----------     ----                ------------
+=======  End Of Output File Contents =======							=======  End Of Output File Contents =======
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_08/P8_in2.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in2.txt
+
+Enter the name of the output file: Project_08_output2.txt
+
+Processing information. Please Wait....
+
+Program has finished execution.
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in2.txt
+
+Enter the name of the output file: Project_08_output2.txt
+
+Processing information. Please Wait....
+
+Program has finished execution.
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P8_in2.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in2.txt			Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in2.txt
+
+Enter the name of the output file: Project_08_output2.txt					Enter the name of the output file: Project_08_output2.txt
+
+Processing information. Please Wait....								Processing information. Please Wait....
+
+Program has finished execution.									Program has finished execution.
+
+
+============================================							============================================
+Contents of output file are below this line							Contents of output file are below this line
+============================================							============================================
+Entry  Last Name           First Name     City                Phone Number			Entry  Last Name           First Name     City                Phone Number
+-----  ---------           ----------     ----                ------------			-----  ---------           ----------     ----                ------------
+1      Bowman              Ron            Huntsville          123.345.5678			1      Bowman              Ron            Huntsville          123.345.5678
+2      Washington          George         Washington          456.345.0000			2      Washington          George         Washington          456.345.0000
+3      Lincoln             Abe            Springfield         654.555.5555			3      Lincoln             Abe            Springfield         654.555.5555
+4      Clinton             William        Little Rock         888.878.9876			4      Clinton             William        Little Rock         888.878.9876
+5      Bush                George         Abilene             877.987.6543			5      Bush                George         Abilene             877.987.6543
+6      Trump               TheDonald      New York            317.345.1234			6      Trump               TheDonald      New York            317.345.1234
+-----  ---------           ----------     ----                ------------			-----  ---------           ----------     ----                ------------
+=======  End Of Output File Contents =======							=======  End Of Output File Contents =======
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_08/P8_in3.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in3.txt
+
+Enter the name of the output file: Project_08_output3.txt
+
+Processing information. Please Wait....
+
+*************** File Read Error ***************
+==> An error has occured while reading
+==> the input file.  Error in file content.
+==> Terminating program!!!
+***********************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in3.txt
+
+Enter the name of the output file: Project_08_output3.txt
+
+Processing information. Please Wait....
+
+*************** File Read Error ***************
+==> An error has occured while reading
+==> the input file.  Error in file content.
+==> Terminating program!!!
+***********************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P8_in3.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in3.txt			Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in3.txt
+
+Enter the name of the output file: Project_08_output3.txt					Enter the name of the output file: Project_08_output3.txt
+
+Processing information. Please Wait....								Processing information. Please Wait....
+
+*************** File Read Error ***************							*************** File Read Error ***************
+==> An error has occured while reading								==> An error has occured while reading
+==> the input file.  Error in file content.							==> the input file.  Error in file content.
+==> Terminating program!!!									==> Terminating program!!!
+***********************************************							***********************************************
+
+
+============================================							============================================
+Contents of output file are below this line							Contents of output file are below this line
+============================================							============================================
+Entry  Last Name           First Name     City                Phone Number			Entry  Last Name           First Name     City                Phone Number
+-----  ---------           ----------     ----                ------------			-----  ---------           ----------     ----                ------------
+1      Bowman              Ron            Huntsville          123.345.5678			1      Bowman              Ron            Huntsville          123.345.5678
+2      Washington          George         Washington          456.345.0000			2      Washington          George         Washington          456.345.0000
+=======  End Of Output File Contents =======							=======  End Of Output File Contents =======
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing Invalid input file then correct
+                             ###  Testing Invalid Input File: Not/A/File.TXT
+                             ###  Testing input file: /home/work/cpe211data/Project_08/P8_in4.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+Enter the name of the input file: Not/A/File.TXT
+
+*************** File Open Error ***************
+==> Input file failed to open properly!!
+==> Attempted to open file: Not/A/File.TXT
+==> Please try again...
+***********************************************
+
+Enter the name of the input file: not/an/input/file.txt
+
+*************** File Open Error ***************
+==> Input file failed to open properly!!
+==> Attempted to open file: not/an/input/file.txt
+==> Please try again...
+***********************************************
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in4.txt
+
+Enter the name of the output file: Project_08_output4.txt
+
+Processing information. Please Wait....
+
+Program has finished execution.
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+==================== Start of Output ============================================
+
+Enter the name of the input file: Not/A/File.TXT
+
+*************** File Open Error ***************
+==> Input file failed to open properly!!
+==> Attempted to open file: Not/A/File.TXT
+==> Please try again...
+***********************************************
+
+Enter the name of the input file: not/an/input/file.txt
+
+*************** File Open Error ***************
+==> Input file failed to open properly!!
+==> Attempted to open file: not/an/input/file.txt
+==> Please try again...
+***********************************************
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in4.txt
+
+Enter the name of the output file: Project_08_output4.txt
+
+Processing information. Please Wait....
+
+Program has finished execution.
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P8_in4.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter the name of the input file: Not/A/File.TXT						Enter the name of the input file: Not/A/File.TXT
+
+*************** File Open Error ***************							*************** File Open Error ***************
+==> Input file failed to open properly!!							==> Input file failed to open properly!!
+==> Attempted to open file: Not/A/File.TXT							==> Attempted to open file: Not/A/File.TXT
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+Enter the name of the input file: not/an/input/file.txt						Enter the name of the input file: not/an/input/file.txt
+
+*************** File Open Error ***************							*************** File Open Error ***************
+==> Input file failed to open properly!!							==> Input file failed to open properly!!
+==> Attempted to open file: not/an/input/file.txt						==> Attempted to open file: not/an/input/file.txt
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in4.txt			Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in4.txt
+
+Enter the name of the output file: Project_08_output4.txt					Enter the name of the output file: Project_08_output4.txt
+
+Processing information. Please Wait....								Processing information. Please Wait....
+
+Program has finished execution.									Program has finished execution.
+
+
+============================================							============================================
+Contents of output file are below this line							Contents of output file are below this line
+============================================							============================================
+Entry  Last Name           First Name     City                Phone Number			Entry  Last Name           First Name     City                Phone Number
+-----  ---------           ----------     ----                ------------			-----  ---------           ----------     ----                ------------
+1      Bowman              Ron            Huntsville          123.345.5678			1      Bowman              Ron            Huntsville          123.345.5678
+2      Washington          George         Washington          456.345.0000			2      Washington          George         Washington          456.345.0000
+3      Lincoln             Abe            Springfield         654.555.5555			3      Lincoln             Abe            Springfield         654.555.5555
+4      Clinton             William        Little Rock         888.878.9876			4      Clinton             William        Little Rock         888.878.9876
+-----  ---------           ----------     ----                ------------			-----  ---------           ----------     ----                ------------
+=======  End Of Output File Contents =======							=======  End Of Output File Contents =======
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_08/P8_in5.txt
+                             ###  Testing Invalid Output File
+                             ###  Testing Invalid Output File then correct
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+==================== Start of Output ============================================
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in5.txt
+
+Enter the name of the output file: Not/A/File.TXT
+
+*************** File Open Error ***************
+==> Output file failed to open properly!!
+==> Attempted to open file: Not/A/File.TXT
+==> Please try again...
+***********************************************
+
+Enter the name of the output file: not/an/input/file.txt
+
+*************** File Open Error ***************
+==> Output file failed to open properly!!
+==> Attempted to open file: not/an/input/file.txt
+==> Please try again...
+***********************************************
+
+Enter the name of the output file: Project_08_output5.txt
+
+Processing information. Please Wait....
+
+Program has finished execution.
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+==================== Start of Output ============================================
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in5.txt
+
+Enter the name of the output file: Not/A/File.TXT
+
+*************** File Open Error ***************
+==> Output file failed to open properly!!
+==> Attempted to open file: Not/A/File.TXT
+==> Please try again...
+***********************************************
+
+Enter the name of the output file: not/an/input/file.txt
+
+*************** File Open Error ***************
+==> Output file failed to open properly!!
+==> Attempted to open file: not/an/input/file.txt
+==> Please try again...
+***********************************************
+
+Enter the name of the output file: Project_08_output5.txt
+
+Processing information. Please Wait....
+
+Program has finished execution.
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P8_in5.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in5.txt			Enter the name of the input file: /home/work/cpe211data/Project_08/P8_in5.txt
+
+Enter the name of the output file: Not/A/File.TXT						Enter the name of the output file: Not/A/File.TXT
+
+*************** File Open Error ***************							*************** File Open Error ***************
+==> Output file failed to open properly!!							==> Output file failed to open properly!!
+==> Attempted to open file: Not/A/File.TXT							==> Attempted to open file: Not/A/File.TXT
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+Enter the name of the output file: not/an/input/file.txt					Enter the name of the output file: not/an/input/file.txt
+
+*************** File Open Error ***************							*************** File Open Error ***************
+==> Output file failed to open properly!!							==> Output file failed to open properly!!
+==> Attempted to open file: not/an/input/file.txt						==> Attempted to open file: not/an/input/file.txt
+==> Please try again...										==> Please try again...
+***********************************************							***********************************************
+
+Enter the name of the output file: Project_08_output5.txt					Enter the name of the output file: Project_08_output5.txt
+
+Processing information. Please Wait....								Processing information. Please Wait....
+
+Program has finished execution.									Program has finished execution.
+
+
+============================================							============================================
+Contents of output file are below this line							Contents of output file are below this line
+============================================							============================================
+Entry  Last Name           First Name     City                Phone Number			Entry  Last Name           First Name     City                Phone Number
+-----  ---------           ----------     ----                ------------			-----  ---------           ----------     ----                ------------
+1      Bowman              Ron            Huntsville          123.345.5678			1      Bowman              Ron            Huntsville          123.345.5678
+2      Washington          George         Washington          456.345.0000			2      Washington          George         Washington          456.345.0000
+3      Lincoln             Abe            Springfield         654.555.5555			3      Lincoln             Abe            Springfield         654.555.5555
+4      Clinton             William        Little Rock         888.878.9876			4      Clinton             William        Little Rock         888.878.9876
+-----  ---------           ----------     ----                ------------			-----  ---------           ----------     ----                ------------
+=======  End Of Output File Contents =======							=======  End Of Output File Contents =======

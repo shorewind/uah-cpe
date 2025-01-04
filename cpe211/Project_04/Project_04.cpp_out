@@ -1,0 +1,518 @@
+Solution Comparison for Project_04
+------------------------------------
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_04/P4_in1.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+                      Password Generator
+************************************************************
+Enter user's first and last names separated by a space: 
+name = George Jonesboro
+
+Enter the first word: 
+first word = horse
+
+Enter the second word: 
+second word = goat
+
+Enter the third word: 
+third word = alligator
+
+************************************************************
+Word#   Length    Word                
+-----   ------    ----                
+1       5         horse               
+2       4         goat                
+3       9         alligator           
+-----   ------    ----                
+
+Average word length = 6.00
+
+password = GJ16@he5^gt4%ar9)
+************************************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+                      Password Generator
+************************************************************
+Enter user's first and last names separated by a space: 
+name = George Jonesboro
+
+Enter the first word: 
+first word = horse
+
+Enter the second word: 
+second word = goat
+
+Enter the third word: 
+third word = alligator
+
+************************************************************
+Word#   Length    Word                
+-----   ------    ----                
+1       5         horse               
+2       4         goat                
+3       9         alligator           
+-----   ------    ----                
+
+Average word length = 6.00
+
+password = GJ16@he5^gt4%ar9)
+************************************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P4_in1.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+                      Password Generator							                      Password Generator
+************************************************************					************************************************************
+Enter user's first and last names separated by a space: 					Enter user's first and last names separated by a space: 
+name = George Jonesboro										name = George Jonesboro
+
+Enter the first word: 										Enter the first word: 
+first word = horse										first word = horse
+
+Enter the second word: 										Enter the second word: 
+second word = goat										second word = goat
+
+Enter the third word: 										Enter the third word: 
+third word = alligator										third word = alligator
+
+************************************************************					************************************************************
+Word#   Length    Word                								Word#   Length    Word                
+-----   ------    ----                								-----   ------    ----                
+1       5         horse               								1       5         horse               
+2       4         goat                								2       4         goat                
+3       9         alligator           								3       9         alligator           
+-----   ------    ----                								-----   ------    ----                
+
+Average word length = 6.00									Average word length = 6.00
+
+password = GJ16@he5^gt4%ar9)									password = GJ16@he5^gt4%ar9)
+************************************************************					************************************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_04/P4_in2.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+                      Password Generator
+************************************************************
+Enter user's first and last names separated by a space: 
+name = Abe Lincoln
+
+Enter the first word: 
+first word = ups
+
+Enter the second word: 
+second word = down
+
+Enter the third word: 
+third word = middle
+
+************************************************************
+Word#   Length    Word                
+-----   ------    ----                
+1       3         ups                 
+2       4         down                
+3       6         middle              
+-----   ------    ----                
+
+Average word length = 4.33
+
+password = AL11}us3$dn4%me6&
+************************************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+                      Password Generator
+************************************************************
+Enter user's first and last names separated by a space: 
+name = Abe Lincoln
+
+Enter the first word: 
+first word = ups
+
+Enter the second word: 
+second word = down
+
+Enter the third word: 
+third word = middle
+
+************************************************************
+Word#   Length    Word                
+-----   ------    ----                
+1       3         ups                 
+2       4         down                
+3       6         middle              
+-----   ------    ----                
+
+Average word length = 4.33
+
+password = AL11}us3$dn4%me6&
+************************************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P4_in2.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+                      Password Generator							                      Password Generator
+************************************************************					************************************************************
+Enter user's first and last names separated by a space: 					Enter user's first and last names separated by a space: 
+name = Abe Lincoln										name = Abe Lincoln
+
+Enter the first word: 										Enter the first word: 
+first word = ups										first word = ups
+
+Enter the second word: 										Enter the second word: 
+second word = down										second word = down
+
+Enter the third word: 										Enter the third word: 
+third word = middle										third word = middle
+
+************************************************************					************************************************************
+Word#   Length    Word                								Word#   Length    Word                
+-----   ------    ----                								-----   ------    ----                
+1       3         ups                 								1       3         ups                 
+2       4         down                								2       4         down                
+3       6         middle              								3       6         middle              
+-----   ------    ----                								-----   ------    ----                
+
+Average word length = 4.33									Average word length = 4.33
+
+password = AL11}us3$dn4%me6&									password = AL11}us3$dn4%me6&
+************************************************************					************************************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_04/P4_in3.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+                      Password Generator
+************************************************************
+Enter user's first and last names separated by a space: 
+name = Mark Twain
+
+Enter the first word: 
+first word = novela
+
+Enter the second word: 
+second word = book
+
+Enter the third word: 
+third word = encyclopedias
+
+************************************************************
+Word#   Length    Word                
+-----   ------    ----                
+1       6         novela              
+2       4         book                
+3       13        encyclopedias       
+-----   ------    ----                
+
+Average word length = 7.67
+
+password = MT10{na6&bk4%es13]
+************************************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+                      Password Generator
+************************************************************
+Enter user's first and last names separated by a space: 
+name = Mark Twain
+
+Enter the first word: 
+first word = novela
+
+Enter the second word: 
+second word = book
+
+Enter the third word: 
+third word = encyclopedias
+
+************************************************************
+Word#   Length    Word                
+-----   ------    ----                
+1       6         novela              
+2       4         book                
+3       13        encyclopedias       
+-----   ------    ----                
+
+Average word length = 7.67
+
+password = MT10{na6&bk4%es13]
+************************************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P4_in3.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+                      Password Generator							                      Password Generator
+************************************************************					************************************************************
+Enter user's first and last names separated by a space: 					Enter user's first and last names separated by a space: 
+name = Mark Twain										name = Mark Twain
+
+Enter the first word: 										Enter the first word: 
+first word = novela										first word = novela
+
+Enter the second word: 										Enter the second word: 
+second word = book										second word = book
+
+Enter the third word: 										Enter the third word: 
+third word = encyclopedias									third word = encyclopedias
+
+************************************************************					************************************************************
+Word#   Length    Word                								Word#   Length    Word                
+-----   ------    ----                								-----   ------    ----                
+1       6         novela              								1       6         novela              
+2       4         book                								2       4         book                
+3       13        encyclopedias       								3       13        encyclopedias       
+-----   ------    ----                								-----   ------    ----                
+
+Average word length = 7.67									Average word length = 7.67
+
+password = MT10{na6&bk4%es13]									password = MT10{na6&bk4%es13]
+************************************************************					************************************************************
+
+
+                             #########################################################################
+                             #########################################################################
+                             ###  Testing input file: /home/work/cpe211data/Project_04/P4_in4.txt
+                             #########################################################################
+                             #########################################################################
+
+                                            ===================================
+                                            ===> Running STUDENTS solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+                      Password Generator
+************************************************************
+Enter user's first and last names separated by a space: 
+name = Thomasville Jefferson
+
+Enter the first word: 
+first word = FoundingFathers
+
+Enter the second word: 
+second word = VirgianianNatives
+
+Enter the third word: 
+third word = LongStandingPatriot
+
+************************************************************
+Word#   Length    Word                
+-----   ------    ----                
+1       15        FoundingFathers     
+2       17        VirgianianNatives   
+3       19        LongStandingPatriot 
+-----   ------    ----                
+
+Average word length = 17.00
+
+password = TJ21&Fs15!Vs17#Lt19%
+************************************************************
+
+==================== End of Output ============================================
+
+                                            ===================================
+                                            ===> Running PROVIDED solution <===
+                                            ===================================
+================== Start of Output ============================================
+
+************************************************************
+                      Password Generator
+************************************************************
+Enter user's first and last names separated by a space: 
+name = Thomasville Jefferson
+
+Enter the first word: 
+first word = FoundingFathers
+
+Enter the second word: 
+second word = VirgianianNatives
+
+Enter the third word: 
+third word = LongStandingPatriot
+
+************************************************************
+Word#   Length    Word                
+-----   ------    ----                
+1       15        FoundingFathers     
+2       17        VirgianianNatives   
+3       19        LongStandingPatriot 
+-----   ------    ----                
+
+Average word length = 17.00
+
+password = TJ21&Fs15!Vs17#Lt19%
+************************************************************
+
+==================== End of Output ============================================
+
+                                             ==========================================
+                                             ===> Side-By-Side Comparison of Output
+                                             ===> Input File: P4_in4.txt
+                                             ==========================================
+
+
+                                             #################################################################
+                                             ###
+                                             ###   There are 0 differences in the
+                                             ###   output generated for the input file.
+                                             ###
+                                             ###   The number shown may not be an exact count of
+                                             ###   the number of differences.
+                                             ###
+                                             ###   Some multiple line differences are combined and
+                                             ###   counted as a single difference. 
+                                             ###
+                                             ###   THE DIFFERENCE COUNT ABOVE MAY NOT INCLUDE ALL DIFFERENCES
+                                             ###
+                                             #################################################################
+
+Student program output                                                                                           Sample Solution Output
+----------------------                                                                                           ----------------------
+
+************************************************************					************************************************************
+                      Password Generator							                      Password Generator
+************************************************************					************************************************************
+Enter user's first and last names separated by a space: 					Enter user's first and last names separated by a space: 
+name = Thomasville Jefferson									name = Thomasville Jefferson
+
+Enter the first word: 										Enter the first word: 
+first word = FoundingFathers									first word = FoundingFathers
+
+Enter the second word: 										Enter the second word: 
+second word = VirgianianNatives									second word = VirgianianNatives
+
+Enter the third word: 										Enter the third word: 
+third word = LongStandingPatriot								third word = LongStandingPatriot
+
+************************************************************					************************************************************
+Word#   Length    Word                								Word#   Length    Word                
+-----   ------    ----                								-----   ------    ----                
+1       15        FoundingFathers     								1       15        FoundingFathers     
+2       17        VirgianianNatives   								2       17        VirgianianNatives   
+3       19        LongStandingPatriot 								3       19        LongStandingPatriot 
+-----   ------    ----                								-----   ------    ----                
+
+Average word length = 17.00									Average word length = 17.00
+
+password = TJ21&Fs15!Vs17#Lt19%									password = TJ21&Fs15!Vs17#Lt19%
+************************************************************					************************************************************
+
