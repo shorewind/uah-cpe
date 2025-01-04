@@ -1,0 +1,29 @@
+<EmptySet.xml>
+<SETSIZE>
+6
+</SETSIZE>
+
+<ELEMENT>
+1
+</ELEMENT>
+<ELEMENT>
+2
+</ELEMENT>
+<ELEMENT>
+3
+</ELEMENT>
+<ELEMENT>
+4
+</ELEMENT>
+<ELEMENT>
+5
+</ELEMENT>
+<ELEMENT>
+6
+</ELEMENT>
+
+<RELATION>
+
+</RELATION>
+S = {1, 2, 3, 4, 5, 6}
+R = { }
