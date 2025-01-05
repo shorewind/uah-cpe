@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/Log.png</file>
+        <file>images/heart.png</file>
+        <file>images/heart.gif</file>
+        <file>images/GameOver.jpg</file>
+        <file>images/Charger.png</file>
+        <file>images/Supra.png</file>
+        <file>images/Skyline.png</file>
+        <file>images/coolbackground.png</file>
+        <file>images/carbon.jpg</file>
+        <file>images/Orbitron-VariableFont_wght.ttf</file>
+        <file>images/greenblack3.jpg</file>
+        <file>images/greenb.jpg</file>
+        <file>images/WaterDeath.png</file>
+        <file>images/ReachGoal.png</file>
+        <file>images/blue_frog.png</file>
+        <file>images/green_frog.png</file>
+        <file>images/red_frog.png</file>
+        <file>images/white_frog.png</file>
+        <file>images/yellow_frog.png</file>
+    </qresource>
+</RCC>

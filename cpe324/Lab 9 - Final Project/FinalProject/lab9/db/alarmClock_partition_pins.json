@@ -1,0 +1,217 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "alarm_indicator",
+					"strict" : false
+				},
+				{
+					"name" : "audio_out_bit",
+					"strict" : false
+				},
+				{
+					"name" : "HH[0]",
+					"strict" : false
+				},
+				{
+					"name" : "HH[1]",
+					"strict" : false
+				},
+				{
+					"name" : "HH[2]",
+					"strict" : false
+				},
+				{
+					"name" : "HH[3]",
+					"strict" : false
+				},
+				{
+					"name" : "HH[4]",
+					"strict" : false
+				},
+				{
+					"name" : "HH[5]",
+					"strict" : false
+				},
+				{
+					"name" : "HH[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hh[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hh[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hh[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hh[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hh[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hh[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hh[6]",
+					"strict" : false
+				},
+				{
+					"name" : "MM[0]",
+					"strict" : false
+				},
+				{
+					"name" : "MM[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MM[2]",
+					"strict" : false
+				},
+				{
+					"name" : "MM[3]",
+					"strict" : false
+				},
+				{
+					"name" : "MM[4]",
+					"strict" : false
+				},
+				{
+					"name" : "MM[5]",
+					"strict" : false
+				},
+				{
+					"name" : "MM[6]",
+					"strict" : false
+				},
+				{
+					"name" : "mm[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mm[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mm[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mm[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mm[4]",
+					"strict" : false
+				},
+				{
+					"name" : "mm[5]",
+					"strict" : false
+				},
+				{
+					"name" : "mm[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SS[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SS[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SS[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SS[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss[6]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "set_alarm",
+					"strict" : false
+				},
+				{
+					"name" : "set_clock",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "set_sec",
+					"strict" : false
+				},
+				{
+					"name" : "set_min",
+					"strict" : false
+				},
+				{
+					"name" : "set_hr",
+					"strict" : false
+				},
+				{
+					"name" : "increment",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

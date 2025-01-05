@@ -1,0 +1,7 @@
+Info (10281): Verilog HDL Declaration information at alarmClock.v(5): object "HH" differs only in case from object "hh" in the same scope File: C:/Users/eas0035/Documents/FinalProject/alarmClock.v Line: 5
+Info (10281): Verilog HDL Declaration information at alarmClock.v(5): object "MM" differs only in case from object "mm" in the same scope File: C:/Users/eas0035/Documents/FinalProject/alarmClock.v Line: 5
+Info (10281): Verilog HDL Declaration information at alarmClock.v(5): object "SS" differs only in case from object "ss" in the same scope File: C:/Users/eas0035/Documents/FinalProject/alarmClock.v Line: 5
+Info (10281): Verilog HDL Declaration information at alarmClock.v(126): object "Hr" differs only in case from object "hr" in the same scope File: C:/Users/eas0035/Documents/FinalProject/alarmClock.v Line: 126
+Info (10281): Verilog HDL Declaration information at alarmClock.v(128): object "Mi" differs only in case from object "mi" in the same scope File: C:/Users/eas0035/Documents/FinalProject/alarmClock.v Line: 128
+Info (10281): Verilog HDL Declaration information at alarmClock.v(130): object "Se" differs only in case from object "se" in the same scope File: C:/Users/eas0035/Documents/FinalProject/alarmClock.v Line: 130
+Warning (10273): Verilog HDL warning at alarmClock.v(158): extended using "x" or "z" File: C:/Users/eas0035/Documents/FinalProject/alarmClock.v Line: 158
